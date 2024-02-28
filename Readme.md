@@ -10,3 +10,4 @@ This are my notes on my journey for solidity dev.
 
 - [create a new solidity project](./soliditynewproject.md)
 - [check your ethers version on hardhat](./ethersversions.md)
+- [testing with hardhat and moka](./testinghardhatmoka.md)
