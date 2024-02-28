@@ -6,3 +6,4 @@ This are my notes on my journey for solidity dev.
 
 - [ng-questplay](./ngquestplay.md)
 - [create a new solidity project](./soliditynewproject.md)
+- [check your ethers version on hardhat](./ethersversion.md)
