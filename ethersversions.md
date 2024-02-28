@@ -1,8 +1,12 @@
 # Ethers version
 
-Using hardhat you could encounter different version of the ether package.  
-Currently we are on ether v6 but you could find tutorials and examples on internet regarding ether v4 or v5.  
-Be sure to use the correct syntax for the version of ether you are using.
+Using hardhat you could encounter different version of the ethers package : [I don't know what it is](https://docs.ethers.org/v6/).
+
+> **Notes**
+> Ethers is already installed if you use hardat so no use of reinstalling it in your project.
+
+Currently we are on ethers v6 but you could find tutorials and examples on internet regarding ether v4 or v5.  
+Be sure to use the correct syntax for the version of ethers you are using.  
 I only encountered issues with hardhat test at that point (using the BigNumber class that change to BigInt and simplify things).
 
 ## How to know which ethers version i am running
